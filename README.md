@@ -1,15 +1,11 @@
-# hitlercoin
-### *jew-unfriendly, aryan-to-aryan trading*
+# $meme  
 
-hitlercoin - has proof of stake and charges fees (jews wont pay this) so yeah gg
-based on colossuscoin, port 151 and difficulty changes every 666 minutes.
-i probably wont respond to issues but u can make a pull request idgaf lol
+welcome to the repo for memecoin: $meme. no utility, no roadmap, just for fun.
 
-### community  
-if ur not jew
+## setup  
+1. clone the repo: `git clone https://github.com/angel-development/memecoin`.  
+2. install dependencies: `npm install` or `yarn install`.  
+3. deploy with your favorite blockchain tools (we like hardhat).  
 
-### social  
-lol jews
-
-### how to use
-dont be a jew (read docs)
+## license  
+this code is free as the memes. use it, fork it, remix it, just give us a nod.  
